@@ -1,0 +1,9 @@
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/mbmjensen/tmux
+[submodule "vim"]
+	path = vim
+	url = https://github.com/mbmjensen/vim
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/mbmjensen/zsh
