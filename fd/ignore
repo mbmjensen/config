@@ -1,0 +1,15 @@
+.DS_Store
+.Trash
+.cache
+.git*
+.lesshst
+.local/
+.localized
+.pyenv/
+.python_history
+.tldrc/
+Library/
+Music Library.musiclibrary/
+Photos Booth Library/
+Photos Library.photoslibrary/
+TV/

@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Michael Jensen
+	email = michaelbmjensen@gmail.com
+[pull]
+	ff = only
+[init]
+	defaultBranch = main
