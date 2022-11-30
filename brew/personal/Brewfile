@@ -1,0 +1,35 @@
+# Install cask packages
+tap "homebrew/cask"
+cask "google-chrome"
+cask "iterm2"
+cask "lastpass"
+cask "mactex-no-gui"
+cask "obsidian"
+cask "spotify"
+
+# Install normal packages
+tap "homebrew/core"
+brew "bat"
+brew "fd"
+brew "gh"
+brew "git"
+brew "go"
+brew "jq"
+brew "mas"
+brew "moreutils"
+brew "node"
+brew "pandoc"
+brew "perl"
+brew "pyenv"
+brew "python"
+brew "ripgrep"
+brew "rsync"
+brew "ruby"
+brew "tldr"
+brew "tmux"
+brew "tree"
+brew "vim"
+brew "zsh"
+
+# Install application store packages
+mas "Streaks", id: 963034692
