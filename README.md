@@ -5,7 +5,7 @@ A home for my config files. These config files can be installed on their own, bu
 ## Requirements
 
 ```
-macOS >= 12.0.1
+macOS >= 13.0.1
 ```
 
 ## Installation Instructions
